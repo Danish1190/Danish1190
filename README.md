@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently studying in `techsol`. im `full-stack web developer`. python is my main language
+im currently studying in `techsol`. im `DATA SCIENTIST`. python is my main language
 
 
 ## 🌐 Socials:
